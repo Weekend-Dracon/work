@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+li{
+    text-indent: 50px;
+    
+}
+.q{
+    color: grey;
+}
+.w{
+    color: yellow;
+}
+.e{
+    color: red;
+}
+ li{
+    display: inline-block;
+}
+ h1{
+    display: block; 
+    white-space: nowrap;
+}
+ h2{
+    display: block; 
+    white-space: nowrap;
+}
+ small{ 
+    display: block; 
+    white-space: nowrap;
+}
