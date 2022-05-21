@@ -1,32 +1,31 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-li{
+li {
     text-indent: 50px;
-    
 }
-.q{
+.q {
     color: grey;
 }
-.w{
+.w {
     color: yellow;
 }
-.e{
+.e {
     color: red;
 }
- li{
+li {
     display: inline-block;
 }
- h1{
-    display: block; 
+h1 {
+    display: block;
     white-space: nowrap;
 }
- h2{
-    display: block; 
+h2 {
+    display: block;
     white-space: nowrap;
 }
- small{ 
-    display: block; 
+small {
+    display: block;
     white-space: nowrap;
 }
